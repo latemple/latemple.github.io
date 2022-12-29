@@ -12015,8 +12015,8 @@ p.lead-heading {
 }
 
 body {
-  background-image: repeating-linear-gradient(223deg, gold, goldenrod 2px, transparent 0px, transparent 2px);
-  background-size: 20px;
+  background: repeating-linear-gradient(gold, lightyellow);
+  background-attachment: fixed;
 }
 
 .frame {
