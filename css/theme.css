@@ -11988,6 +11988,10 @@ figure {
   margin-inline-end: 40px;
 }
 
+gold-border {
+  border: 5px groove gold;
+}
+
 h1, .h1 {
   color: #2b0000 !important;
   font-size: larger;
@@ -11997,6 +12001,10 @@ h1.main-heading, .main-heading.h1 {
   font-size: calc(1.625rem + 4.5vw);
   font-weight: 600;
   line-height: 1.2;
+}
+
+h1.center, .center.h1 {
+  text-align: center;
 }
 
 p.lead-heading {
